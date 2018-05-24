@@ -1,5 +1,3 @@
-using System;
-
 namespace TesteGlobalization.Models
 {
     public class ErrorViewModel
